@@ -13,4 +13,4 @@ __Merge Conflict__- when Git cannot automatically resolve code differences betwe
 __Push__- The act of sending, or uploading, code from a branch in your local source code repository to a branch in the remote repository.
 __Pull__- A style of network communication where the initial request for data originates from the client, and then is responded to by the server.
 __Remote__-  Each developer will be working from a different computer. 
-__Repository__-  A place that hosts an application's code source, together with various metadata.
+__Repository__-  A place that hosts an application's code source, together with various metadata. 
