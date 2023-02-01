@@ -24,4 +24,5 @@ __Pull__- A style of network communication where the initial request for data or
 
 __Remote__-  Each developer will be working from a different computer.\\
 
-__Repository__-  A place that hosts an application's code source, together with various metadata. 
+__Repository__-  A place that hosts an application's code source, together with various metadata.\\
+theme: minima
