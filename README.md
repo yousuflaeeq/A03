@@ -9,12 +9,12 @@ __Git__
 *Make a change to your file with a git hosting tool and commit.
 
 __WebStorm__<br>
-*Install WebStorm.<br>
-*System requirements.<br>
-*Install using the Toolbox App.<br>
-*Standalone installation.<br>
-*Silent installation on Windows.<br>
-*Install as a snap package on Linux.<br>
+"*"Install WebStorm.<br>
+"*"System requirements.<br>
+"*"Install using the Toolbox App.<br>
+"*"Standalone installation.<br>
+"*"Silent installation on Windows.<br>
+"*"Install as a snap package on Linux.<br>
 
 
 __Branch__-  Is a copy of a codeline, managed in a version control system (VCS).\\
