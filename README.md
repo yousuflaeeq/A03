@@ -1,6 +1,6 @@
 # A03
 __GitHub__
-After creating an account on github you will come upon the main feed page where you can interact and view other people's projects. In order to start this you will need to start following some people and create a repository of your own. You can either export a file or start an entirely new one on GitHub. 
+After creating an account on github you will come upon the main feed page where you can interact and view other people's projects. In order to start this you will need to start following some people and create a repository of your own. You can either export a file or start an entirely new one on GitHub.<br> 
 __Git__
 To use git Create a "repository" (project) with a git hosting tool (like Bitbucket)
 Copy (or clone) the repository to your local machine.
