@@ -8,8 +8,13 @@ Add a file to your local repo and "commit" (save) the changes.
 "Push" your changes to your main branch.
 Make a change to your file with a git hosting tool and commit.
 
-__WebStorm__
-
+__WebStorm__<br>
+Install WebStorm.
+System requirements.
+Install using the Toolbox App.
+Standalone installation.
+Silent installation on Windows.
+Install as a snap package on Linux.
 
 
 __Branch__-  Is a copy of a codeline, managed in a version control system (VCS).\\
