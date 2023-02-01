@@ -16,7 +16,7 @@ __WebStorm__<br>
 * Silent installation on Windows.<br>
 * Install as a snap package on Linux.<br>
 
-
+__Glossary__<br>
 __Branch__-  Is a copy of a codeline, managed in a version control system (VCS).\\
 
 __Clone__- Similar or identical fragments of code.\\
