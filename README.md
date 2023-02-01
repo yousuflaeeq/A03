@@ -1,5 +1,15 @@
 # A03
-After creating an account you will come upon the main feed page where you can interact and view other people's projects. In order to start this you will need to start following some people and create a repository of your own. You can either export a file or start an entirely new one on GitHub.
+__GitHub__
+After creating an account on github you will come upon the main feed page where you can interact and view other people's projects. In order to start this you will need to start following some people and create a repository of your own. You can either export a file or start an entirely new one on GitHub. 
+__Git__
+To use git Create a "repository" (project) with a git hosting tool (like Bitbucket)
+Copy (or clone) the repository to your local machine.
+Add a file to your local repo and "commit" (save) the changes.
+"Push" your changes to your main branch.
+Make a change to your file with a git hosting tool and commit.
+
+__WebStorm__
+
 
 
 __Branch__-  Is a copy of a codeline, managed in a version control system (VCS).\\
